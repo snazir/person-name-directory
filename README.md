@@ -11,6 +11,7 @@ To achieve abstraction, We use Abstract Class and Interface by declaring abstrac
    
 
 2. Why is Java 7’s class inheritance flawed?
+
 Not sure, if you are asking about the Multiple Inheritence in Java, That is not possible due to Diamond Problem.
 
 
